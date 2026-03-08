@@ -34,9 +34,9 @@ java EjercicioArreglos
 
 4. Ingresar los números solicitados por el programa.
 
-## Capturas de pantalla
+## Captura de pantalla
 
-Aquí se muestran ejemplos de la ejecución del programa.
+Ejemplo de la ejecución del programa.
 
 <img width="1268" height="918" alt="imagen" src="https://github.com/user-attachments/assets/aabf43c4-649f-4228-bac8-c22e8cd8c3d0" />
 
